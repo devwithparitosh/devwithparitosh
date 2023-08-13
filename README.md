@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Paritosh</h1>
-<h3 align="center">A passionate Software developer and data analyst</h3>
+<h3 align="center">A passionate Software developer and Data Analyst</h3>
+
+- 🌱 I’m currently learning **Android software Development, Python**
+
+- 📫 How to reach me **paritoshku22+github@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/devwithparitoshkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/devwithparitoshkumar" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/devwithparitosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/devwithparitosh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devwithparitoshkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devwithparitoshkumar" height="30" width="40" /></a>
+<a href="https://kaggle.com/devwithparitosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="devwithparitosh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
