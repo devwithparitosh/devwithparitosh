@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paritosh</h1>
-<h3 align="center">A passionate Software developer and Data Analyst</h3>
+<h3 align="center">A passionate developer </h3>
 
 - 🌱 I’m currently learning **Android software Development, Python**
 
