@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paritosh</h1>
 <h3 align="center">A passionate developer </h3>
 
-- 🌱 I’m currently learning **Android software Development, Python**
+- 🌱 I’m currently learning **Android software Development**
 
 - 📫 How to reach me **paritoshku22+github@gmail.com**
 
