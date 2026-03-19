@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Paritosh</h1>
-<h3 align="center">A passionate developer </h3>
+<h3 align="center">A passionate techie </h3>
 
-- 🌱 I’m currently learning **Android software Development**
+- 🌱 I’m currently learning **Cloud**
 
-- 📫 How to reach me **paritoshku22+github@gmail.com**
+- 📫 How to reach me **paritoshjob22+github@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
