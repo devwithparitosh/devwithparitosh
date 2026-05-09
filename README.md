@@ -106,26 +106,23 @@ A passionate Gamer 😁 and currently learning Cloud & Networking
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwithparitosh&layout=compact&theme=tokyonight" 
-    alt="Top Languages" 
-    height="180em"
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devwithparitosh&theme=github_dark"
+    alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=devwithparitosh&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats" 
-    height="180em"
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devwithparitosh&theme=github_dark"
+    alt="Top Languages"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=devwithparitosh&theme=tokyonight" 
-    alt="GitHub Streak" 
-    height="180em"
+  <img
+    src="https://streak-stats.demolab.com?user=devwithparitosh&theme=dark"
+    alt="GitHub Streak"
   />
 </p>
 ---
