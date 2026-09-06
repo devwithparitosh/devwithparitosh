@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paritosh Kumar</h1>
 
 <h3 align="center">
-A passionate Gamer 😁 and currently learning Cloud & Networking
+A passionate Gamer 😁 and Love to Explore new TECH
 </h3>
 
 <p align="center">
@@ -19,7 +19,7 @@ A passionate Gamer 😁 and currently learning Cloud & Networking
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **newwithTab**
-- 🌱 I’m currently learning **Cloud and Networking**
+- 🌱 I’m currently learning **Pyhton For Anaytics**
 - 👨‍💻 All of my projects are available here:  
   <a href="https://devwithparitosh.github.io/01/" target="_blank">
     Portfolio Website
@@ -130,5 +130,5 @@ A passionate Gamer 😁 and currently learning Cloud & Networking
 <h3 align="center">✨ Fun Fact</h3>
 
 <p align="center">
-  I love gaming 🎮, exploring new tech ☁️, and building cool projects 🚀
+  I love gaming 🎮, exploring new tech ☁️, and building Things 🚀
 </p>
